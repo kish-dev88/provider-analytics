@@ -1,0 +1,5 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic>=2.8,<3
+databricks-sql-connector>=3.4,<4
+databricks-sdk>=0.33,<1
